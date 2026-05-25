@@ -64,3 +64,37 @@ This project simulates a small enterprise Active Directory environment using Win
 ## Screenshots
 
 Screenshots and infrastructure diagrams will be added as the lab expands.
+
+### Organizational Units
+
+![Organizational Units](screenshots/organizational-units.png)
+
+---
+
+### Security Groups
+
+![Security Groups](screenshots/security-groups.png)
+
+---
+
+### Enterprise Users
+
+![Enterprise Users](screenshots/enterprise-users-it-support.png)
+
+---
+
+### Group Policy Management
+
+![Group Policy Management](screenshots/group-policy-management.png)
+
+---
+
+### GPO Workstation Restrictions
+
+![GPO Workstation Restrictions](screenshots/workstation-restriction-policydeepdive.png)
+
+---
+
+### Administrative Accounts
+
+![Administrative Accounts](screenshots/admin-accounts.png)
