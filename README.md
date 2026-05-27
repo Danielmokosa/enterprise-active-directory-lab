@@ -46,18 +46,30 @@ This project simulates a small enterprise Active Directory environment using Win
 - Implemented Control Panel access restrictions
 - Began centralized policy management using Group Policy Objects (GPOs)
 
+### Phase 4 — Endpoint & Enterprise Operations Integration
+Configured Windows 11 enterprise workstation
+Configured static DNS communication between workstation and Domain Controller
+Successfully domain-joined Windows 11 workstation to mokosa.local
+Validated workstation-to-domain authentication workflows
+Implemented enterprise shared folder infrastructure
+Configured SMB shared network resources
+Implemented NTFS permissions and department-based RBAC access control
+Validated department access segmentation using Active Directory Security Groups
+Tested enterprise authentication and file access workflows across domain users
+
 ---
 
 ## Planned Expansion
 
-- Domain-joined Windows 11 workstations
-- Shared drives and NTFS permissions
-- Password policies and account lockout policies
-- RBAC expansion
-- PowerShell administration
-- SIEM integration
+- Shared drives, mapped network drives, and NTFS permissions
+- Password policies, password reset workflows, and account lockout administration
+- RBAC expansion and administrative delegation
+- PowerShell administration and automation
+- SIEM integration (Splunk / Microsoft Sentinel)
 - Azure/AWS hybrid identity concepts
-- Security monitoring and logging
+- Security monitoring, logging, and event forwarding
+- Microsoft Defender security monitoring
+- Attack simulation and detection engineering
 
 ---
 
@@ -98,3 +110,22 @@ Screenshots and infrastructure diagrams will be added as the lab expands.
 ### Administrative Accounts
 
 ![Administrative Accounts](screenshots/admin-accounts.png)
+
+
+### Successful Domain Join
+
+
+### Enterprise DNS Resolution
+
+
+### Enterprise Shared Resources
+
+
+### RBAC NTFS Permissions
+
+
+### Access Denied Validation
+
+
+### Successful Department Access
+
