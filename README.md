@@ -9,10 +9,13 @@ This project simulates a small enterprise Active Directory environment using Win
 ## Technologies Used
 
 - Windows Server 2022
+- Windows 11
 - Active Directory Domain Services (AD DS)
 - DNS
 - Group Policy Management
-- Windows 11
+- NTFS Permissions
+- SMB File Sharing
+- RBAC (Role-Based Access Control)
 - PowerShell
 - UTM Virtualization
 
@@ -47,15 +50,15 @@ This project simulates a small enterprise Active Directory environment using Win
 - Began centralized policy management using Group Policy Objects (GPOs)
 
 ### Phase 4 — Endpoint & Enterprise Operations Integration
-Configured Windows 11 enterprise workstation
-Configured static DNS communication between workstation and Domain Controller
-Successfully domain-joined Windows 11 workstation to mokosa.local
-Validated workstation-to-domain authentication workflows
-Implemented enterprise shared folder infrastructure
-Configured SMB shared network resources
-Implemented NTFS permissions and department-based RBAC access control
-Validated department access segmentation using Active Directory Security Groups
-Tested enterprise authentication and file access workflows across domain users
+- Configured Windows 11 enterprise workstation
+- Configured static DNS communication between workstation and Domain Controller
+- Successfully domain-joined Windows 11 workstation to mokosa.local
+- Validated workstation-to-domain authentication workflows
+- Implemented enterprise shared folder infrastructure
+- Configured SMB shared network resources
+- Implemented NTFS permissions and department-based RBAC access control
+- Validated department access segmentation using Active Directory Security Groups
+- Tested enterprise authentication and file access workflows across domain users
 
 ---
 
