@@ -60,7 +60,7 @@ This project simulates a small enterprise Active Directory environment using Win
 - Validated department access segmentation using Active Directory Security Groups
 - Tested enterprise authentication and file access workflows across domain users
 
-  ### Phase 5 — Enterprise Operations & Delegated Administration
+### Phase 5 — Enterprise Operations & Delegated Administration
    - Implemented delegated administration and enterprise operational workflows using Active Directory, Group Policy, RBAC, PowerShell, and enterprise access management concepts
       #### Delegated Administration & Least Privilege
 
