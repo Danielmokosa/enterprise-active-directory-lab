@@ -69,18 +69,19 @@ This project simulates a small enterprise Active Directory environment using Win
       - MSIT_Junior_Admins
       - MSIT_Password_Reset_Operators
       - MSIT_Security_Auditors
+      
    - Created delegated administrative user accounts:
      - Sarah.Helpdesk
      - Jacob.Admin
      - Mike.Support
-     - Alex.Security -
+     - Alex.Security 
   - Configured delegated password reset permissions
   - Implemented least privilege administrative access controls
   - Configured scoped administrative delegation using Active Directory
     
 #### Identity & Access Management Operations
 
-- Simulated enterprise onboarding workflows -
+- Simulated enterprise onboarding workflows 
 - Simulated enterprise offboarding workflows
 - Configured Disabled Users Organizational Unit
 - Implemented account disabling and access revocation workflows
