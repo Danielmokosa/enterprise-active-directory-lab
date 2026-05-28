@@ -60,6 +60,69 @@ This project simulates a small enterprise Active Directory environment using Win
 - Validated department access segmentation using Active Directory Security Groups
 - Tested enterprise authentication and file access workflows across domain users
 
+  ### Phase 5 — Enterprise Operations & Delegated Administration
+   - Implemented delegated administration and enterprise operational workflows using Active Directory, Group Policy, RBAC, PowerShell, and enterprise access management concepts
+      #### Delegated Administration & Least Privilege
+
+    - Created operational administrative security groups:
+      - MSIT_HelpDesk_Admins
+      - MSIT_Junior_Admins
+      - MSIT_Password_Reset_Operators
+      - MSIT_Security_Auditors
+   - Created delegated administrative user accounts:
+     - Sarah.Helpdesk
+     - Jacob.Admin
+     - Mike.Support
+     - Alex.Security -
+  - Configured delegated password reset permissions
+  - Implemented least privilege administrative access controls
+  - Configured scoped administrative delegation using Active Directory
+    
+#### Identity & Access Management Operations
+
+- Simulated enterprise onboarding workflows -
+- Simulated enterprise offboarding workflows
+- Configured Disabled Users Organizational Unit
+- Implemented account disabling and access revocation workflows
+- Validated department-based RBAC access control
+
+#### Security Operations Foundations 
+- Implemented account lockout investigations
+- Investigated failed and successful authentication events
+- Performed Event Viewer security log analysis
+- Implemented authentication troubleshooting workflows
+- Configured read-only security auditing concepts
+
+#### Enterprise Resource Deployment 
+- Configured Group Policy-based mapped network drives
+- Implemented department-based drive mapping using security group targeting
+- Configured enterprise shared printer deployment concepts
+- Implemented SMB shared resources and NTFS access controls
+
+#### Workstation & Endpoint Administration 
+- Configured limited workstation administrative access
+- Implemented scoped endpoint administration concepts
+- Validated restricted domain-level administrative access
+
+#### PowerShell Administration & Automation 
+- Performed Active Directory user enumeration
+- Queried Security Group memberships
+- Automated account administration operations
+- Performed account lockout and password administration
+- Retrieved and analyzed security event logs using PowerShell
+
+#### Key Enterprise Concepts Practiced 
+- Delegated Administration
+- Least Privilege Access Control
+- Identity Lifecycle Management
+- Role-Based Access Control (RBAC)
+- Authentication Troubleshooting
+- Security Auditing
+- Enterprise Workstation Administration
+- Group Policy Deployment
+- IAM Operations
+- Operational Security Monitoring
+
 ---
 
 ## Planned Expansion
