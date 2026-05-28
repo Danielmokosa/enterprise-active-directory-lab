@@ -128,15 +128,60 @@ This project simulates a small enterprise Active Directory environment using Win
 
 ## Planned Expansion
 
-- Shared drives, mapped network drives, and NTFS permissions
-- Password policies, password reset workflows, and account lockout administration
-- RBAC expansion and administrative delegation
-- PowerShell administration and automation
-- SIEM integration (Splunk / Microsoft Sentinel)
-- Azure/AWS hybrid identity concepts
-- Security monitoring, logging, and event forwarding
-- Microsoft Defender security monitoring
-- Attack simulation and detection engineering
+## SIEM & Security Monitoring
+
+- Splunk Enterprise deployment and log ingestion
+- Microsoft Sentinel integration
+- Windows Event Forwarding (WEF)
+- Centralized security event collection
+- Authentication event monitoring
+- Security alert generation and analysis
+- Detection engineering workflows
+- Security log correlation and investigation
+
+## Cloud & Hybrid Identity
+- Microsoft Azure integration
+- Microsoft Entra ID (Azure AD) integration
+- Hybrid identity synchronization concepts
+- Cloud identity and access management (IAM)
+- Multi-factor authentication (MFA) concepts
+- Azure role-based access control (Azure RBAC)
+- Hybrid authentication workflows
+- Microsoft Defender Security Operations
+- Microsoft Defender configuration and monitoring
+- Endpoint protection policy management
+- Security event analysis
+- Threat monitoring workflows
+- Endpoint security administration
+## Security Engineering & Detection Operations
+- Brute-force attack simulations
+- Account lockout investigations
+- Authentication anomaly investigations
+- Privilege escalation simulations
+- PowerShell logging analysis
+- Event ID monitoring and analysis
+- Detection rule creation concepts
+- Security operations investigation workflows
+
+## PowerShell Automation & Reporting
+- Automated user provisioning scripts
+- Bulk Active Directory administration
+- Group membership automation
+- Security reporting scripts
+- Event log retrieval automation
+- Administrative reporting workflows
+
+## Enterprise Security Concepts Practiced
+- SIEM Operations
+- Security Monitoring
+- Detection Engineering
+- Hybrid Identity
+- Cloud IAM
+- Security Event Correlation
+- Threat Detection
+- Enterprise Logging
+- Endpoint Security Operations
+- Security Automation
 
 ---
 
