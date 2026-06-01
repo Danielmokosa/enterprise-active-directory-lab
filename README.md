@@ -43,6 +43,22 @@ This project simulates a small enterprise Active Directory environment using Win
   - Servers
   - Workstations
   - Admin Accounts
+ ### Organizational Units
+
+![Organizational Units](screenshots/organizational-units.png)
+---
+
+### Security Groups
+
+![Security Groups](screenshots/security-groups.png)
+
+---
+
+### Enterprise Users
+
+![Enterprise Users](screenshots/enterprise-users-it-support.png)
+
+
 
 ### Phase 3 — Group Policy & Security Hardening
 - Configured workstation restriction policies
