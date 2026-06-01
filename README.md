@@ -65,6 +65,16 @@ This project simulates a small enterprise Active Directory environment using Win
 - Implemented Control Panel access restrictions
 - Began centralized policy management using Group Policy Objects (GPOs)
 
+---
+
+### Group Policy Management
+
+![Group Policy Management](screenshots/group-policy-management.png)
+
+### GPO Workstation Restrictions
+
+![GPO Workstation Restrictions](screenshots/workstation-restriction-policydeepdive.png)
+
 ### Phase 4 — Endpoint & Enterprise Operations Integration
 - Configured Windows 11 enterprise workstation
 - Configured static DNS communication between workstation and Domain Controller
@@ -139,6 +149,11 @@ This project simulates a small enterprise Active Directory environment using Win
 - Group Policy Deployment
 - IAM Operations
 - Operational Security Monitoring
+  ---
+
+### Administrative Accounts
+
+![Administrative Accounts](screenshots/admin-accounts.png)
 
 ---
 
