@@ -94,6 +94,18 @@ This project simulates a small enterprise Active Directory environment using Win
 
 ![GPO Workstation Restrictions](screenshots/workstation-restriction-policydeepdive.png)
 
+### GPO Editor Overview
+
+![GPO Editor Overview](screenshots/phase3_gpo_editor_overview.png)
+
+### Workstation Restriction Policy
+
+![Workstation Restriction Policy](screenshots/phase3_control_panel_restrictions.png)
+
+### Linked Workstation GPO
+
+![Linked Workstation GPO](screenshots/phase3_linked_workstation_gpo.png)
+
 ### Phase 4 — Endpoint & Enterprise Operations Integration
 - Configured Windows 11 enterprise workstation
 - Configured static DNS communication between workstation and Domain Controller
