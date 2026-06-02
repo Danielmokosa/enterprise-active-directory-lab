@@ -31,7 +31,7 @@ This project simulates a small enterprise Active Directory environment using Win
 - Created enterprise domain: mokosa.local
   ### Domain Controller Overview
 
-![Domain Controller Overview](screenshots/phase1_domain_controller_overview.png)
+![Domain Controller Overview](screenshots/phase1_domain_controller_overvieww.png)
 ### Active Directory Domain Services
 
 ![AD DS Installed](screenshots/phase1_ad_ds_installed.png)
