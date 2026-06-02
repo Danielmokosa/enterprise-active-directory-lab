@@ -29,6 +29,15 @@ This project simulates a small enterprise Active Directory environment using Win
 - Configured DNS
 - Promoted server to Domain Controller
 - Created enterprise domain: mokosa.local
+  ### Domain Controller Overview
+
+![Domain Controller Overview](screenshots/phase1_domain_controller_overview.png)
+### Active Directory Domain Services
+
+![AD DS Installed](screenshots/phase1_ad_ds_installed.png)
+### DNS Configuration
+
+![DNS Configuration](screenshots/phase1_dns_configuration.png)
 
 ### Phase 2 — Enterprise Organizational Structure
 - Created Organizational Units (OUs)
