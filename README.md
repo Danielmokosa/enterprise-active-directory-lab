@@ -52,6 +52,10 @@ This project simulates a small enterprise Active Directory environment using Win
   - Servers
   - Workstations
   - Admin Accounts
+### Organizational Unit Structure
+
+![Organizational Unit Structure](screenshots/phase2_ou_structure_expanded.png)
+---
  ### Organizational Units
 
 ![Organizational Units](screenshots/organizational-units.png)
@@ -66,9 +70,15 @@ This project simulates a small enterprise Active Directory environment using Win
 ### Enterprise Users
 
 ![Enterprise Users](screenshots/enterprise-users-it-support.png)
+---
+### RBAC User Group Membership
 
+![RBAC User Group Membership](screenshots/phase2_grace_hr_membership.png)
+---
+### HR Security Group Membership
 
-
+![HR Security Group Membership](screenshots/phase2_hr_group_members.png)
+---
 ### Phase 3 — Group Policy & Security Hardening
 - Configured workstation restriction policies
 - Implemented Control Panel access restrictions
