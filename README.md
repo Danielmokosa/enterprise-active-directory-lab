@@ -100,11 +100,12 @@ This project simulates a small enterprise Active Directory environment using Win
 
 ### Workstation Restriction Policy
 
-![Workstation Restriction Policy](screenshots/phase3_control_panel_restrictions.png)
+![Workstation Restriction Policy](screenshots/phase3_control_panel_policy.png)
 
+![Workstation Restriction Policy](screenshots/phase3_control_panel_policy2.png)
 ### Linked Workstation GPO
 
-![Linked Workstation GPO](screenshots/phase3_linked_workstation_gpo.png)
+![Linked Workstation GPO](screenshots/phase3_gpo_linked_to_workstations.png)
 
 ### Phase 4 — Endpoint & Enterprise Operations Integration
 - Configured Windows 11 enterprise workstation
