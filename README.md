@@ -29,6 +29,7 @@ This project simulates a small enterprise Active Directory environment using Win
 - Configured DNS
 - Promoted server to Domain Controller
 - Created enterprise domain: mokosa.local
+---
   ### Domain Controller Overview
 
 ![Domain Controller Overview](screenshots/phase1_domain_controller_overvieww.png)
@@ -52,6 +53,7 @@ This project simulates a small enterprise Active Directory environment using Win
   - Servers
   - Workstations
   - Admin Accounts
+---
 ### Organizational Unit Structure
 
 ![Organizational Unit Structure](screenshots/phase2_ou_structure_expanded.png)
@@ -117,7 +119,7 @@ This project simulates a small enterprise Active Directory environment using Win
 - Implemented NTFS permissions and department-based RBAC access control
 - Validated department access segmentation using Active Directory Security Groups
 - Tested enterprise authentication and file access workflows across domain users
-
+---
 ### Phase 5 — Enterprise Operations & Delegated Administration
    - Implemented delegated administration and enterprise operational workflows using Active Directory, Group Policy, RBAC, PowerShell, and enterprise access management concepts
       #### Delegated Administration & Least Privilege
@@ -184,6 +186,8 @@ This project simulates a small enterprise Active Directory environment using Win
   ---
 
 ### Administrative Accounts
+
+---
 
 ![Administrative Accounts](screenshots/admin-accounts.png)
 
