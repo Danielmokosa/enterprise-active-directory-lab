@@ -120,6 +120,31 @@ This project simulates a small enterprise Active Directory environment using Win
 - Validated department access segmentation using Active Directory Security Groups
 - Tested enterprise authentication and file access workflows across domain users
 ---
+### Successful Domain Join
+
+![Successful Domain Join](screenshots/phase4_successful_domain_join.png)
+### Workstation in Active Directory
+
+![Workstation in Active Directory](screenshots/phase4_workstation_in_ad.png)
+### Enterprise DNS Resolution
+
+![Enterprise DNS Resolution](screenshots/phase4_dns_resolution.png)
+### Enterprise Shared Resources
+
+![Enterprise Shared Resources](screenshots/phase4_enterprise_shared_resources.png)
+### Network Share Configuration
+
+![Network Share Configuration](screenshots/phase4_network_share_permissions.png)
+### RBAC NTFS Permissions
+
+![RBAC NTFS Permissions](screenshots/phase4_rbac_ntfs_permissions.png)
+### Access Denied Validation
+
+![Access Denied Validation](screenshots/phase4_access_denied_validation.png)
+### Successful Department Access
+
+![Successful Department Access](screenshots/phase4_successful_department_access.png)
+
 ### Phase 5 — Enterprise Operations & Delegated Administration
    - Implemented delegated administration and enterprise operational workflows using Active Directory, Group Policy, RBAC, PowerShell, and enterprise access management concepts
       #### Delegated Administration & Least Privilege
