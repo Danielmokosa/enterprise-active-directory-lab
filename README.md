@@ -216,6 +216,30 @@ This project simulates a small enterprise Active Directory environment using Win
 
 ![Administrative Accounts](screenshots/admin-accounts.png)
 
+### Delegated Help Desk Administration
+
+![Delegated Help Desk Administration](screenshots/phase5_helpdesk_delegation.png)
+
+### Password Reset Workflow
+
+![Password Reset Workflow](screenshots/phase5_password_reset_workflow.png)
+
+### Disabled Users OU
+
+![Disabled Users OU](screenshots/phase5_offboarding_workflow.png)
+
+### Account Lockout Investigation
+
+![Account Lockout Investigation](screenshots/phase5_account_lockout_investigation.png)
+
+### Drive Mapping GPO
+
+![Drive Mapping GPO](screenshots/phase5_drive_mapping_gpo.png)
+
+### PowerShell Administration
+
+![PowerShell Administration](screenshots/phase5_powershell_administration.png)
+
 ---
 
 ## Planned Expansion
